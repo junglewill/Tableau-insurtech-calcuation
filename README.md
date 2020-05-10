@@ -8,7 +8,7 @@ This tableau product calculation model was built during my internship at Pacific
 
 ![Image of Intro Page](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Intro%20Page.png)
 
->Then, after choosing the parameters regarding gender, policy type, insured age, cash outlay, premium financing and its multiple, and the current loan rate, it could generate the spreadsheet for the insurance pricing calculation: (Noted: these parameters are important for an insurance company to value the corresponding cash value and death benefit) 
+>After choosing the parameters regarding gender, policy type, insured age, cash outlay, premium financing and its multiple, and the current loan rate, it could generate the spreadsheet for the insurance pricing calculation: (Noted: these parameters are important for an insurance company to value the corresponding cash value and death benefit) 
 
 ![Image of Calculation Info](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Calculation%20Info.png)
 
@@ -20,7 +20,8 @@ This tableau product calculation model was built during my internship at Pacific
 
 ![Image of Product Comparison](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Product%20Comparison%20Graph.png)
 
-
 #### This tableau model was applied to product illustration for sales processes, and it also improved the efficiency of creating target customers proposals. 
 
 ![Image of Product Comparison](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Thank%20You.png)
+
+#### This is a simple demonstration. The data sources and insurance details are protected and I could not upload the .twbx file here. If you'd like to know more, please contact me via LinkedIn: https://www.linkedin.com/in/ping-hsun-william-lee/. Thanks for reading.
