@@ -24,4 +24,4 @@ This tableau product calculation model was built during my internship at Pacific
 
 ![Image of Product Comparison](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Thank%20You.png)
 
-#### This is a simple demonstration. The data sources and insurance details are protected and I could not upload the .twbx file here. If you'd like to know more, please contact me via LinkedIn: https://www.linkedin.com/in/ping-hsun-william-lee/. Thanks for reading.
+This is a simple demonstration. The data sources and insurance details are protected and I could not upload the .twbx file here. If you'd like to know more, please contact me via LinkedIn: https://www.linkedin.com/in/ping-hsun-william-lee/. Thanks for reading.
