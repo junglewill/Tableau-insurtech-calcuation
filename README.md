@@ -1,2 +1,4 @@
 # Tableau_Insurtech_Calcuation
-A tableau product calculation model with functions of insurance pricing, stress testing, and product comparison
+This tableau product calculation model was built during my internship at Pacific Wealth Solutions, an insurtech company targeting HNWIs in Asia. The functions include premium financing pricing, stress testing, and product comparison. 
+
+
