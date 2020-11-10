@@ -8,7 +8,7 @@ This tableau product calculation model was built during my internship at Pacific
 
 ![Image of Intro Page](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Intro%20Page.png)
 
->After choosing the parameters regarding gender, policy type, insured age, cash outlay, premium financing and its multiple, and the current loan rate, it could generate the spreadsheet for the insurance pricing calculation: (Noted: these parameters are important for an insurance company to value the corresponding cash value and death benefit) 
+>After choosing the parameters, including gender, policy type, insured age, cash outlay, premium financing multiple, and the current loan rate, the product model will generate the spreadsheet for insurance pricing estimation: (Noted: these parameters are important for an insurance company to value the corresponding cash value and death benefit) 
 
 ![Image of Calculation Info](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Calculation%20Info.png)
 
@@ -16,7 +16,7 @@ This tableau product calculation model was built during my internship at Pacific
 
 ![Image of Calculation Graph](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/CSV%20and%20Death%20Benefit%20Changes%20through%20Time.png)
 
->For all the product we offered at that time, we also printed out the visualization for target customers to compare and to make better decision:
+>The product model will visualize all the products we offered at that time for target customers to compare and to make better decision:
 
 ![Image of Product Comparison](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Product%20Comparison%20Graph.png)
 
@@ -24,4 +24,4 @@ This tableau product calculation model was built during my internship at Pacific
 
 ![Image of Product Comparison](https://github.com/junglewill/Tableau_Insurtech_Calcuation/blob/master/Thank%20You.png)
 
-This is a simple demonstration. The data sources and insurance details are confidential and therefore the .twbx file could not be shared here. If you'd like to know more, please contact me via LinkedIn: https://www.linkedin.com/in/ping-hsun-william-lee/. Thanks for reading.
+This is a simple demonstration. The data sources and insurance details are confidential and therefore the .twbx file could not be shared here. If you'd like to know more, please contact me at LinkedIn: https://www.linkedin.com/in/ping-hsun-william-lee/.
